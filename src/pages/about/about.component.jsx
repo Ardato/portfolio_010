@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./about.styles.css";
-import Profile from "../../assets/img/profile/dato.jpg";
+import Profile from "../../assets/img/profile/ardato.jpg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
@@ -23,7 +23,8 @@ const About = () => {
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Ardato Belay</strong>
                       Full Stack Web Developer, building dynamic and responsive single page applications using JavaScript & React , HTML5, CSS3  , on the Client-side
-                       NodeJS & Express on the Server-side, with MongoDB .
+                       NodeJS & Express on the Server-side, with MongoDB . <br/>
+                       and other skills oracle and Apex <br/> 
                         Experienced with Node.js, Express.js, React, JavaScript , MongoDB, jQuery, Bootstrap 4, Material-ui and React-Bootstrap. <br></br>
                         Quick learner, team player with excellent collaboration skills and open minded to learn and adopt new technologies
                 <Col className="d-flex justify-content-center flex-wrap">
